@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="110" viewBox="0 0 960 110" role="img" aria-labelledby="title">
+  <title id="title">Feito com curiosidade, hypertext markup language, pixels e café</title>
+  <rect x="12" y="11" width="936" height="88" rx="14" fill="#181a3b" stroke="#6556c9" stroke-width="3"/>
+  <rect x="20" y="19" width="920" height="72" rx="9" fill="#252450" stroke="#55cde0" stroke-dasharray="5 5"/>
+  <rect x="37" y="34" width="58" height="42" rx="5" fill="#42ddbc"/>
+  <path d="M49 51h34M49 61h25" stroke="#152f4d" stroke-width="6"/>
+  <g font-family="Verdana,Arial,sans-serif" font-weight="bold"><text x="119" y="62" font-size="19" fill="#f9f6ff">feito com curiosidade, hypertext markup language, pixels e café.</text></g>
+</svg>

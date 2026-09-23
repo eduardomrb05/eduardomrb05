@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="title desc">
+  <title id="title">Bem vindo(a) ao meu GitHub</title>
+  <desc id="desc">Janela de computador retrô azul e roxa, com o nome Eduardo Ribeiro, a frase Transformando ideias em projetos reais e um monitor pixelado.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#15152f"/><stop offset=".6" stop-color="#26205b"/><stop offset="1" stop-color="#164c79"/></linearGradient>
+    <linearGradient id="bar" x2="1"><stop stop-color="#5651de"/><stop offset="1" stop-color="#14a5d1"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#fff" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="960" height="360" fill="url(#bg)"/>
+  <rect width="960" height="360" fill="url(#grid)"/>
+  <path d="M0 295 400 115 960 292V360H0" fill="#6d42b9" opacity=".15"/>
+  <g font-family="Verdana,Arial,sans-serif" font-size="13" fill="#c5eafa"><text x="24" y="28">✦ eduardo.exe</text><text x="792" y="28">online ● 200X</text></g>
+  <rect x="52" y="63" width="856" height="259" rx="8" fill="#080b27" stroke="#8b76fa" stroke-width="3"/>
+  <rect x="58" y="69" width="844" height="247" rx="4" fill="#171c42"/>
+  <rect x="58" y="69" width="844" height="37" rx="4" fill="url(#bar)"/>
+  <path d="M58 102H902" stroke="#c7fbff" stroke-opacity=".5"/>
+  <g font-family="Verdana,Arial,sans-serif" font-size="14" font-weight="bold" fill="white"><text x="76" y="93">✦ BEM VINDO(A) ao meu GITHUB!</text></g>
+  <g fill="#e8e2ff" stroke="#262656" stroke-width="2"><rect x="815" y="78" width="20" height="19" rx="2"/><rect x="844" y="78" width="20" height="19" rx="2"/><rect x="873" y="78" width="20" height="19" rx="2"/></g>
+  <g font-family="Verdana,Arial,sans-serif" font-size="13" font-weight="bold" fill="#262656"><text x="819" y="92">_</text><text x="849" y="92">□</text><text x="878" y="92">×</text></g>
+  <rect x="80" y="128" width="553" height="163" rx="3" fill="#111735" stroke="#6174aa"/>
+  <g font-family="Verdana,Arial,sans-serif"><text x="101" y="159" font-size="14" fill="#50e5e1">C:\USUARIOS\EDUARDO&gt; olá_mundo</text><text x="101" y="204" font-size="39" font-weight="bold" fill="#fff">Eduardo Ribeiro</text><text x="102" y="240" font-size="16" fill="#d6d7f8">Transformando ideias em projetos reais.</text><text x="102" y="269" font-size="13" fill="#a6afd9">Dev web - UI/UX - Conhecimentos</text></g>
+  <g shape-rendering="crispEdges">
+    <rect x="704" y="145" width="145" height="104" fill="#071326" stroke="#b3b9fc" stroke-width="8"/>
+    <rect x="718" y="159" width="117" height="75" fill="#38aecb"/>
+    <path d="M729 203h12v-21h13v-11h13v11h13v-11h13v11h13v21h-12v12h-53v-12h-12z" fill="#201843"/>
+    <rect x="753" y="190" width="8" height="8" fill="#80ffca"/><rect x="784" y="190" width="8" height="8" fill="#80ffca"/>
+    <rect x="763" y="208" width="20" height="5" fill="#ea84da"/>
+    <rect x="762" y="249" width="30" height="17" fill="#b3b9fc"/><rect x="726" y="265" width="103" height="9" fill="#b3b9fc"/>
+  </g>
+  <g font-family="Verdana,Arial,sans-serif" font-size="13" fill="#e8e1ff"><text x="707" y="296">[ entre e explore ]</text></g>
+  <g fill="#89ffcf"><path d="M665 125h4v-8h4v8h8v4h-8v8h-4v-8h-8z"/><path d="M861 129h4v-8h4v8h8v4h-8v8h-4v-8h-8z"/></g>
+  <path d="M0 344H960" stroke="#67f3db" stroke-width="2" opacity=".65"/>
+</svg>

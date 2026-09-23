@@ -10,7 +10,7 @@
 
 Olá, Mundo! Me chamo **Eduardo** 👋
 
-Sempre buscando transformar ideias em algo real! E por aqui você encontra um pouco dessa decicação, através de projetos de faculdade, testes, experimentos de produtos e interfaces construidas com dedicação e força de vontade.
+Sempre buscando transformar ideias em algo real! E por aqui você encontra um pouco dessa dedicação, através de projetos de faculdade, testes, experimentos de produtos e interfaces construidas com dedicação e força de vontade.
 
 ```txt
 STATUS       : explorando, aprendendo e construindo

@@ -23,6 +23,7 @@ MODO ATUAL   : protótipos → código → ajustes → repetição
 | Janela                                                                    | O que tem dentro                                                       |
 | :------------------------------------------------------------------------ | :--------------------------------------------------------------------- |
 | [📚 Estúdio de Ideias](https://github.com/eduardomrb05/estudio-de-ideias) | Um repositório digital para organizar e descobrir projetos acadêmicos. |
+| [🏐 Fairplay](https://github.com/eduardomrb05/fairplay-pmv) | Uma aplicação dedicada em facilitar o processo de busca e reserva de quadras esportivas. |
 | 🎮 **teamUP** · _em desenvolvimento_                                      | Uma experiência para encontrar duos e amizades para jogar.             |
 
 ### `🧰 caixa_de_ferramentas/`
